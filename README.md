@@ -288,7 +288,7 @@ TaskNexus is built using a modern tech stack that includes both core and third-p
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/hoangsonww/Task-Manager-ReactNative.git
+git clone https://github.com/MeAkash77/TaskNexus-Real-Time-Cross-Platform-Task-Manager-ReactNative.git
 cd Task-Manager-ReactNative
 ```
 
@@ -557,17 +557,6 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 > [!CAUTION]
 > This project is for educational purposes only and is not intended for production use. It is a personal project to demonstrate my skills in React Native, Expo, and TypeScript. Please be sure to credit the original author if you use any part of this code in your own projects, regardless of use case.
-
-## Contact
-
-For any questions, feedback, or suggestions, please contact the repository owner:
-
-- **Name:** [Son Nguyen](https://sonnguyenhoang.com)
-- **Email:** [hoangson091104@gmail.com](mailto:hoangson091104@gmail.com)
-- **GitHub:** [@hoangsonww](https://github.com/hoangsonww)
-- **LinkedIn:** [Son Nguyen](https://www.linkedin.com/in/hoangsonw/)
-
----
 
 **Thank you for checking out TaskNexus - A Task Manager React Native App! 🚀📲**. Please feel free to contribute, report issues, or suggest improvements. Your feedback is always welcome!
 
