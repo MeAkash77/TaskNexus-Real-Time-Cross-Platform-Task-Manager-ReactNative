@@ -1,0 +1,8 @@
+{
+  "expo": {
+    "name": "task-manager-reactnative",
+    "slug": "task-manager-reactnative",
+    "version": "1.0.0",
+    "assetBundlePatterns": ["**/*"]
+  }
+}
